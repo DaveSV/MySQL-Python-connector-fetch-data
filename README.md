@@ -48,7 +48,7 @@ Setting up a sample database
 MySQL Python Connect
 First, download the following  python_mysql database, uncompress the file and copy it to a folder such as C:\mysql\python_mysql.sql :
 
-Download Python MySQL Sample Database
+Download Python MySQL Sample Database >> /python_mysql.zip
 
 Next, log in to MySQL Server using mysql tool:
 
